@@ -35,6 +35,7 @@
 		},
 		"StandardLoginFormWebclient": {
 			"UseDropdownLanguagesView": true
+		},
 		"MailLoginFormWebclient": {
 			"Disabled": true,
 			"UseDropdownLanguagesView": true
