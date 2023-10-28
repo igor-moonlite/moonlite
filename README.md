@@ -1,6 +1,6 @@
 # MoonLite fork of AfterLogic WebMail Lite
 
-AfterLogic WebMail Lite is a free webmail application.
+[AfterLogic WebMail Lite](https://afterlogic.org/webmail-lite) is a free webmail application.
 
 MoonLite is a fat-free fork with cosmetic changes, few presets and various widgets.
 
