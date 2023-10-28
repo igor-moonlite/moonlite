@@ -1,0 +1,57 @@
+{
+	"system": {
+		"XFrameOptions": "SAMEORIGIN"
+	},
+	"modules": {
+		"Core": {
+			"SiteName": "MoonLite",
+			"ProductName": "MoonLite",
+			"EnableFailedLoginBlock": false,
+			"AllowGroups": false
+		},
+
+		"CoreWebclient": {
+			"HeaderModulesOrder": ["mail", "contacts"],
+			"DefaultAnonymScreenHash": "login",
+			"DefaultUserScreenHash": "mail",
+			"ThemeList": ["Default", "DefaultDark", "DeepForest", "Funny", "Sand"]
+		},
+		"Mail": {
+			"MessagesSortBy": {
+				"Allow": true,
+				"List": [],
+				"DefaultSortBy": "arrival",
+				"DefaultSortOrder": "desc"
+			},
+			"AllowDefaultAccountForUser": true,
+			"AutocreateMailAccountOnNewUserFirstLogin": true,
+			"XOriginatingIPHeaderName": ""
+		},
+		"MailWebclient": {
+			"AllowSearchMessagesBySubject": true
+		},
+		"MailTnefWebclientPlugin": {
+			"Disabled": true
+		},
+		"StandardLoginFormWebclient": {
+			"UseDropdownLanguagesView": true,
+		"MailLoginFormWebclient": {
+			"Disabled": true,
+			"UseDropdownLanguagesView": true,
+		},
+		"SecuritySettingsWebclient": {
+			"Disabled": true
+		},
+		"TwoFactorAuth": {
+			"Disabled": true,
+			"FacetIds": [
+				"android:apk-key-hash:fbENTvCSeR-AwJV5rrrBsb98p-jEw0c5SSOMul_KwaI",
+				"android:apk-key-hash:ruyLw8eJtT5fZ1ZusXSCHTp0yMZIlr6CVx5kq76ApiQ",
+				"android:apk-key-hash:aEdaWviMajF83fPsXVc1yaZVUy1OiKakbZqP62f5D48"
+			]
+		},
+		"Contacts": {
+			"ImportContactsLink": "https://afterlogic.com/docs/webmail-lite-8/frequently-asked-questions/importing-contacts"
+		}
+	}
+}
