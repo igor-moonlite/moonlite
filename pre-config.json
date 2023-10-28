@@ -34,10 +34,10 @@
 			"Disabled": true
 		},
 		"StandardLoginFormWebclient": {
-			"UseDropdownLanguagesView": true,
+			"UseDropdownLanguagesView": true
 		"MailLoginFormWebclient": {
 			"Disabled": true,
-			"UseDropdownLanguagesView": true,
+			"UseDropdownLanguagesView": true
 		},
 		"SecuritySettingsWebclient": {
 			"Disabled": true
