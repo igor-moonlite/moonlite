@@ -1,6 +1,9 @@
 {
 	"system": {
-		"XFrameOptions": "SAMEORIGIN"
+		"XFrameOptions": "SAMEORIGIN",
+		"UseAppMinJs": false,
+		"CacheTemplates": false,
+		"CacheLangs": false
 	},
 	"modules": {
 		"Core": {
