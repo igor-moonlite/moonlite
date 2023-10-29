@@ -39,6 +39,8 @@ apt update
 apt install moonlite
 ```
 
+The package and repository are built with [this tool here](https://github.com/igor-moonlite/apt-build).
+
 ## TODO
 * improve widgets structure, with some added on login screen
 * improve Russian translations and push them to upstream
