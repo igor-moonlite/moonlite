@@ -41,7 +41,10 @@ apt install moonlite
 
 The package and repository are built with [this tool here](https://github.com/igor-moonlite/apt-build).
 
+## UPD
+
+* 29 Oct 2023: added widgets on login screen
+
 ## TODO
-* improve widgets structure, with some added on login screen
 * improve Russian translations and push them to upstream
 * Files feature, either original from Afterlogic or custom, ownCloud-compatible one
