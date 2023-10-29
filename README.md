@@ -49,4 +49,5 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## TODO
 * improve Russian translations and push them to upstream
+* research password change and Sieve features with Jino mail
 * Files feature, either original from Afterlogic or custom, ownCloud-compatible one
