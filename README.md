@@ -45,6 +45,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ### 29 Oct 2023
 * added widgets on login screen
+* TruckersMP clock improved
 * enabled address book management
 
 ## TODO
