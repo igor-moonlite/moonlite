@@ -41,9 +41,11 @@ apt install moonlite
 
 The package and repository are built with [this tool here](https://github.com/igor-moonlite/apt-build).
 
-## UPD
+## CHANGELOG
 
-* 29 Oct 2023: added widgets on login screen
+### 29 Oct 2023
+* added widgets on login screen
+* enabled address book management
 
 ## TODO
 * improve Russian translations and push them to upstream
