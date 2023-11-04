@@ -54,5 +54,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 * enabled address book management
 
 ## TODO
-* ~~research password change and Sieve features with Jino mail~~ No longer required, moving away from Jino mail soon
-* ~~Files feature, either original from Afterlogic or custom, ownCloud-compatible one~~ Planning to use S3 at Timeweb instead
+* Moving away from Jino mail, to either Timeweb's mail or self-hosted mailserver
+* Moonlite Files version, with potential use of S3 at Timeweb instead
+* Autoreload of weather widget (say, once every 30 min)
+* Research TruckersMP clock with no need for web requests
