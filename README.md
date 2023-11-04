@@ -43,12 +43,16 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## CHANGELOG
 
+### 4 Nov 2023
+* fixed issue with locking package versions in composer.json
+* Russian translation update, pushed to upstream
+* wallpaper update
+
 ### 29 Oct 2023
 * added widgets on login screen
 * TruckersMP clock improved
 * enabled address book management
 
 ## TODO
-* improve Russian translations and push them to upstream
-* research password change and Sieve features with Jino mail
-* Files feature, either original from Afterlogic or custom, ownCloud-compatible one
+* ~~research password change and Sieve features with Jino mail~~ No longer required, moving away from Jino mail soon
+* ~~Files feature, either original from Afterlogic or custom, ownCloud-compatible one~~ Planning to use S3 at Timeweb instead
