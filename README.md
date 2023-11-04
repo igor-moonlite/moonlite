@@ -14,7 +14,7 @@ MoonLite is a fat-free fork of AfterLogic WebMail Lite:
   
 **NB:** you can modify the widgets themselves as they're preserved upon version upgrades. They're stored in `content` subdirectory and served via `/mlite/content` alias - which works whether you have MoonLite installed to domain root or to subdirectory.
 
-While MoonLite can be installed manually from repository or ZIP, its primary purpose is to be installed from MoonLite APT repository. It's designed to work with Apache, PHP 8 and MySQL and will install the components as dependencies if necessary.
+While MoonLite can be installed manually, its primary purpose is to be installed from MoonLite APT repository. It's designed to work with Apache, PHP 8 and MySQL and will install the components as dependencies if necessary.
 
 ## Installing MoonLite from APT repository
 
@@ -40,6 +40,16 @@ apt install moonlite
 ```
 
 The package and repository are built with [this tool here](https://github.com/igor-moonlite/apt-build).
+
+## Installing MoonLite from ZIP package
+
+1. Download the package at https://moonlyta.com/download/moonlite.zip
+
+2. For fresh installation, extract the package to web directory. Make sure webserver is able to write in data subdirectory.
+
+3. For upgrade, backup `data` subdirectory; if you made any changes to `content` you may wish to backup as well. Delete the installation, extract the package and restore from backup.
+
+4. In web browser, navigate to `/adminpanel/`, default login is superadmin, with an empty password.
 
 ## CHANGELOG
 
