@@ -20,12 +20,12 @@ While MoonLite can be installed manually, its primary purpose is to be installed
 
 1. Add this to your `/etc/apt/sources.list` file:
 ```
-deb http://apt.moonlyta.com /
+deb http://apt.mooncats.ru /
 ```
 
 2. Install a public key:
 ```
-curl -s http://apt.moonlyta.com/moonlite.asc | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/moonlite.gpg --import
+curl -s http://apt.mooncats.ru/moonlite.asc | sudo gpg --no-default-keyring --keyring gnupg-ring:/etc/apt/trusted.gpg.d/moonlite.gpg --import
 chmod 644 /etc/apt/trusted.gpg.d/moonlite.gpg
 ```
 
@@ -43,7 +43,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## Installing MoonLite from ZIP package
 
-1. Download the package at https://moonlyta.com/download/moonlite.zip
+1. Download the package at https://mooncats.ru/download/moonlite.zip
 
 2. For fresh installation, extract the package to web directory. Make sure webserver is able to write in data subdirectory.
 
@@ -52,6 +52,9 @@ The package and repository are built with [this tool here](https://github.com/ig
 4. In web browser, navigate to `/adminpanel/`, default login is superadmin, with an empty password.
 
 ## CHANGELOG
+
+### 6 Nov 2023
+* primary domain changed
 
 ### 4 Nov 2023
 * fixed issue with locking package versions in composer.json
