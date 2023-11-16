@@ -53,6 +53,9 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## CHANGELOG
 
+### 16 Nov 2023
+* Desktop notification icon update
+
 ### 6 Nov 2023
 * primary domain changed
 
