@@ -55,6 +55,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ### 17 Nov 2023
 * Header icon location & size revised
+* .htaccess file restored
 
 ### 16 Nov 2023
 * Desktop notification icon update
