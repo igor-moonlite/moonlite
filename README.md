@@ -55,6 +55,9 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ### 16 Nov 2023
 * Desktop notification icon update
+* Adminpanel favicon update
+* Mailserver is now added with Sieve features enabled
+* Repository signing key reissued
 
 ### 6 Nov 2023
 * primary domain changed
@@ -74,4 +77,4 @@ The package and repository are built with [this tool here](https://github.com/ig
 * Moonlite Files version, with potential use of S3 at Timeweb instead
 * Autoreload of weather widget (say, once every 30 min)
 * Research TruckersMP clock with no need for web requests
-* Configure filters/autoresponder/etc., possibly password change & reset
+* Configure password change, probably reset too
