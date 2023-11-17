@@ -53,6 +53,9 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## CHANGELOG
 
+### 17 Nov 2023
+* Header icon location & size revised
+
 ### 16 Nov 2023
 * Desktop notification icon update
 * Adminpanel favicon update
