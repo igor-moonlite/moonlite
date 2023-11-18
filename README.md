@@ -53,6 +53,9 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## CHANGELOG
 
+### 18 Nov 2023
+* Builder of packages and repository substantially revised due to MoonFile release
+
 ### 17 Nov 2023
 * Header icon location & size revised
 * .htaccess file restored
@@ -64,18 +67,18 @@ The package and repository are built with [this tool here](https://github.com/ig
 * Repository signing key reissued
 
 ### 6 Nov 2023
-* primary domain changed
+* Primary domain changed
 
 ### 4 Nov 2023
-* fixed issue with locking package versions in composer.json
+* Fixed issue with locking package versions in composer.json
 * Russian translation update, pushed to upstream
-* wallpaper update
-* moved away from Jino mail, localhost mailserver is now added
+* Wallpaper update
+* Moved away from Jino mail, localhost mailserver is now added
 
 ### 29 Oct 2023
-* added widgets on login screen
+* Added widgets on login screen
 * TruckersMP clock improved
-* enabled address book management
+* Enabled address book management
 
 ## TODO
 * Moonlite Files version, with potential use of S3 at Timeweb instead
