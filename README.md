@@ -55,6 +55,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 ### 19 Nov 2023
 * TruckersMP clock is now fully autonomous, no longer requires web requests
 * Outlook theme added (`override` directory, builder scripts updated)
+* Radio player now supports multiple stations
 
 ### 18 Nov 2023
 * Builder of packages and repository substantially revised due to MoonFile release
