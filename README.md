@@ -53,7 +53,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 
 ## CHANGELOG
 ### 19 Nov 2023
-* TruckersMP clock is fully autonomous, no longer requires web requests
+* TruckersMP clock is now fully autonomous, no longer requires web requests
 
 ### 18 Nov 2023
 * Builder of packages and repository substantially revised due to MoonFile release
@@ -83,6 +83,10 @@ The package and repository are built with [this tool here](https://github.com/ig
 * Enabled address book management
 
 ## TODO
-* Moonlite Files version, with potential use of S3 at Timeweb instead
 * Autoreload of weather widget (say, once every 30 min)
+* Make widgets more configurable
+* Radio with station switcher
 * Configure password change, probably reset too
+* Mailserver-bundled package
+* Simpler Calendar module, without authentication, but with user-defined URL
+* Research "upcoming events" for Calendar
