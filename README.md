@@ -52,6 +52,8 @@ The package and repository are built with [this tool here](https://github.com/ig
 4. In web browser, navigate to `/adminpanel/`, default login is superadmin, with an empty password.
 
 ## CHANGELOG
+### 19 Nov 2023
+* TruckersMP clock is fully autonomous, no longer requires web requests
 
 ### 18 Nov 2023
 * Builder of packages and repository substantially revised due to MoonFile release
@@ -83,5 +85,4 @@ The package and repository are built with [this tool here](https://github.com/ig
 ## TODO
 * Moonlite Files version, with potential use of S3 at Timeweb instead
 * Autoreload of weather widget (say, once every 30 min)
-* Research TruckersMP clock with no need for web requests
 * Configure password change, probably reset too
