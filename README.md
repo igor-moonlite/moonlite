@@ -56,6 +56,7 @@ The package and repository are built with [this tool here](https://github.com/ig
 * TruckersMP clock is now fully autonomous, no longer requires web requests
 * Outlook theme added (`override` directory, builder scripts updated)
 * Radio player now supports multiple stations
+* Integration into IFrame and login via POST are now allowed
 
 ### 18 Nov 2023
 * Builder of packages and repository substantially revised due to MoonFile release
@@ -87,7 +88,6 @@ The package and repository are built with [this tool here](https://github.com/ig
 ## TODO
 * Autoreload of weather widget (say, once every 30 min)
 * Make widgets more configurable
-* Radio with station switcher
 * Configure password change, probably reset too
 * Mailserver-bundled package
 * Simpler Calendar module, without authentication, but with user-defined URL
