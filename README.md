@@ -52,6 +52,9 @@ The package and repository are built with [this tool here](https://github.com/ig
 4. In web browser, navigate to `/adminpanel/`, default login is superadmin, with an empty password.
 
 ## CHANGELOG
+### 23 Nov 2023
+* Radio list updated, 100+ stations added
+
 ### 19 Nov 2023
 * TruckersMP clock is now fully autonomous, no longer requires web requests
 * Outlook theme added (`override` directory, builder scripts updated)
